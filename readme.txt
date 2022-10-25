@@ -1,6 +1,6 @@
 Matlab code of the Morotti et al. model of the sinoatrial node myocyte in mouse updated to investigate the role of the Dnajb6 gene in sick sinus syndrome
 
-The Morotti et al. model (whcih can be downloaded from this website) was originally developed modifying the Kharche et al. model (Am. J. Physiol. Heart Circ. Physiol. 2011, 301, H945–H963) to reproduce an experimental dataset collected in the Proenza Lab.
+The Morotti et al. model (which can be downloaded from this website) was originally developed modifying the Kharche et al. model (Am. J. Physiol. Heart Circ. Physiol. 2011, 301, H945–H963) to reproduce an experimental dataset collected in the Proenza Lab.
 
 
 Please cite the following papers when using this code:
