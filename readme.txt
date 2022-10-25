@@ -10,4 +10,4 @@ Morotti S, Ni H, Peters CH, Rickert C, Asgari-Targhi A, Sato D, Glukhov AV, Proe
 Ding Y, Lang D, Yan J, Bu H, Li H, Jiao K, Yang J, Ni H, Morotti S, Le T, Clark KJ, Port J, Ekker SC, Cao H, Zhang Y, Wang J, Grandi E, Li Z, Shi Y, Li Y, Glukhov AV, Xu X. A phenotype-based forward genetic screen identifies Dnajb6 as a sick sinus syndrome gene. Elife. 2022 Oct 18;11:e77327. doi: 10.7554/eLife.77327.
 
 
-License.
+License: MIT License.
